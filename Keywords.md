@@ -2,6 +2,13 @@
 
 - Studio Pro
 - Built-in HSSQL database
+- UI:
+  - Mendix primarily relies on its own visual modeling language for building user interfaces, and it does not directly support integration with popular front-end frameworks like Angular, React, or Vue.js.
+  - However, Mendix provides its own set of widgets and tools for designing and customizing the user interface, and it uses JavaScript for client-side scripting.
+- Backend:
+  - Mendix primarily uses Java as the backend language for server-side logic.
+  - Mendix doesn't directly support using other backend programming languages for server-side logic.
+- Pluggable widget
 - Domain model
 - Workflow
 - Connector
