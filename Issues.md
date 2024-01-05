@@ -27,7 +27,7 @@ v9.24.13 (Release date: December 27, 2023)
 
 ![1704432826944](image/Issues/1704432826944.png)
 
-bwtween v9.18.0 and v.9.24.99
+bwtween v9.18.0 and v9.24.99
 
 Excuse me? Imported "Quickstart_App.mpk" with v9.24.13 but still has 2 incompatiable errors!
 
