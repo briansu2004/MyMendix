@@ -2,7 +2,7 @@
 
 ## What is Mendix?
 
-As of my last knowledge update in January 2022, Mendix is a low-code application development platform that enables users to create web and mobile applications with minimal hand-coding. Keep in mind that the information might have evolved since then. Here are some common ways people use Mendix:
+Mendix is a low-code application development platform that enables users to create web and mobile applications with minimal hand-coding. Keep in mind that the information might have evolved since then. Here are some common ways people use Mendix:
 
 1. **Application Development:**
    - **Web Applications:** Mendix allows users to create responsive and feature-rich web applications using a visual development approach.
