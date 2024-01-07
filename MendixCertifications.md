@@ -1,6 +1,6 @@
 # Mendix Certifications
 
-Mendix does offer certifications for individuals to validate their skills and expertise in using the Mendix platform. However, the specific certification programs and details may have evolved since then. I recommend checking the official Mendix website or contacting Mendix directly for the most up-to-date information on certification programs.
+<!-- Mendix does offer certifications for individuals to validate their skills and expertise in using the Mendix platform. However, the specific certification programs and details may have evolved since then. I recommend checking the official Mendix website or contacting Mendix directly for the most up-to-date information on certification programs.
 
 Here are some common types of Mendix certifications that were available as of my last update:
 
@@ -18,4 +18,20 @@ To pursue Mendix certification, you may need to follow these general steps:
 
 - **Renewal:** Some certifications may require periodic renewal to ensure that certified individuals stay updated with the latest platform features and best practices.
 
-Keep in mind that the certification landscape can change, and Mendix may introduce new certifications or update existing ones. Therefore, it's crucial to visit the official Mendix website or contact Mendix support for the most accurate and current information regarding certification programs.
+Keep in mind that the certification landscape can change, and Mendix may introduce new certifications or update existing ones. Therefore, it's crucial to visit the official Mendix website or contact Mendix support for the most accurate and current information regarding certification programs. -->
+
+- (Free) Rapid Developer Certification
+
+This certification shows you understand the fundamentals of the Mendix platform and how, when, and where to use them.
+
+- Intermediate Developer Certification
+
+This certification shows you are able to apply knowledge into practical scenarios and be a great addition to Mendix projects.
+
+- Advanced Developer Certification
+
+The Advanced Developer Certification exam is a multiple choice test that will review your Mendix platform skills and knowledge.
+
+- Expert Developer Certification
+
+Certified Expert Developers have certified proven capabilities in taking the lead when delivering Mendix applications to their customers.

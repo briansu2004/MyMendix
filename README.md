@@ -2,7 +2,7 @@
 
 ## My Mendix Credential
 
-- (Mendix) Mendix Rapid Developer
+- Mendix Rapid Developer
 - Issued May 2020
 - Credential ID 21939
 
