@@ -29,3 +29,21 @@ The versions I used
 - v10.6.1
 - v9.19.0
 - v8.18.27
+
+## My Udemy Curses
+
+<https://myudemycourses.netlify.app/>
+
+- [React Mastery: Rapidstart Your Responsive App](https://www.udemy.com/course/react-rapidstart-creating-an-responsive-react-app-in-1-hour/)
+- [Struts Savvy: Quickstart Your Java Projects](https://www.udemy.com/course/struts-savvy-quickstart-your-java-projects/)
+- [Spring MVC Mastery: Jumpstart Your Java Projects](https://www.udemy.com/course/spring-mvc-mastery-jumpstart-your-java-projects/)
+- [Maven Mastery: Kickstart Your Java Projects](https://www.udemy.com/course/maven-mastery-kickstart-your-java-projects/)
+- [Ace Your Google Cloud (GCP) Job Interviews](https://www.udemy.com/course/it-contractor-google-cloud-gcp-interview-questions-20xx/)
+- [IT Behavioral Interview Questions](https://www.udemy.com/course/it-contractor-behavioral-interview-questions-20xx/)
+- [DevOps Interview Questions](https://www.udemy.com/course/devops-interview-questions-20xx/)
+- [Efficient Kubernetes Management with Python and Go](https://www.udemy.com/course/managing-dask-kubernetes-with-kubectl-python-and-go/)
+- [DevOps Labs: 16 Real DevOps Projects](https://www.udemy.com/course/devops-labs-16-real-devops-projects/)
+- [DevOps Labs: 15 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-15-real-devsecops-projects/)
+- [DevOps Labs: 12 Real DevSecOps Projects](https://www.udemy.com/course/devops-labs-12-real-devsecops-projects/)
+- [DevOps Labs: 14 Real DevOps Projects](https://www.udemy.com/course/devops-labs-14-real-devops-projects/)
+- [DevOps Labs: 9 Real DevOps Projects](https://www.udemy.com/course/devops-labs-9-real-devops-projects/)
