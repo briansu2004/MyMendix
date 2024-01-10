@@ -16,6 +16,30 @@
 - Used Mendix Studio to create the responsive and feature-rich UI apps with the low code concept for mobile, pad and computer terminals, deployed the apps to Mendix cloud, built the images with Cloud Foundry, managed the entire application lifecycle, and collaborated with the team with Agile, Scrum and user stories.
 - Migrated the business data from various legacy applications to Big Data with the initial load and ongoing delta loads
 
+## My Mendix Experience
+
+### How Much experience with Mendix do I have?
+
+- Started from 2017
+- Got Mendix Rapid Developer certification on May 2020, Credential ID 21939
+
+### What experience with Mendix do I have?
+
+- Used Mendix Studio Pro from version 7 to version 10
+- Modeled the Data with domain models
+- Designed App's User Interface
+- Defined the logic with microflows and configured them
+- Integrated with PostgreSQL DB
+- Integrated with REST APIs
+- Published app to Mendix Cloud
+- Connected with SAP etc. with connectors
+
+### What solutions did I implement?
+
+- Worked on a big project for Canada Post through Accenture
+- Crafted a comprehensive high- and low-level design document for a new application modernization project
+- Migrated data from legacy applications and Enterprise Data Warehouse (EDW) to a new Big Data Lake utilizing the Mendix Cloud.
+
 ## My Mendix Udemy Course
 
 WIP
