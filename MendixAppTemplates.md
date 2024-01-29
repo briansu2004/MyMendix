@@ -2,6 +2,20 @@
 
 ## v10.16.1
 
+- Blank Web App v10.6.23936
+- Blank Native Mobile App v10.6.23936
+- AR Starter App v3.1.3
+- Purchase Request v2.11.0
+- Approval App v2.3.1
+- Tasks & Planning v10.11.0
+- Insights Hub Starter Application v2.0.0
+- News & Content v10.11.0
+- Siemens Insights Hub Starter Application v4.0.0
+- Forms Template v2.10.0
+- Atlas Design System v1.2.1
+- Siemens Insights Hub Mobile Starter Application v3.0.0
+- Blank
+
 ## v9.24.13
 
 - Blank Web App
@@ -61,3 +75,16 @@
 ![1706557525192](image/MendixAppTemplates/1706557525192.png)
 
 ![1706557571465](image/MendixAppTemplates/1706557571465.png)
+
+## v8.18.27
+
+- Blank Web App
+- Blank Native Mobile App
+- Asset Manager App
+- Event App
+- Tasks & Planning
+- News & Content
+- Siemens MindSphere Starter Application
+- Siemens MindSphere Mobile Starter Application
+- AtlasUI Styleguide Boilerplate
+- Blank
