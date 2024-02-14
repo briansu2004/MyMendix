@@ -10,6 +10,7 @@
 - [Misc](#misc)
   - [Download MxBuild](#download-mxbuild)
   - [Install dos2unix in Windows](#install-dos2unix-in-windows)
+- [Ref](#ref)
 
 ## 1. Create a Mendix app
 
@@ -106,4 +107,20 @@ choco install dos2unix
 
 cd C:\tmp\docker-mendix-buildpack\scripts\
 dos2unix *.*
+```
+
+## Ref
+
+<https://medium.com/@mayank.m.raj/containerizing-your-mendix-application-on-container-engine-for-kubernetes-oke-ef3061238036>
+
+```dos
+git clone --branch v5.0.2 --config core.autocrlf=false https://github.com/mendix/docker-mendix-buildpack
+
+docker build -t mendix-rootfs:app -f rootfs-app.dockerfile .
+
+docker build -t mendix-rootfs:builder -f rootfs-builder.dockerfile .
+
+docker build -t briansu2004/mendix-buildpack:v1.2 .
+
+docker run -it -e ADMIN_PASSWORD=Password1! -e DATABASE_ENDPOINT=postgres://username:password@host:port/mendix briansu2004/mendix-buildpack:v1.2  
 ```
