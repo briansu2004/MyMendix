@@ -10,7 +10,7 @@
 
 ## My Mendix Project
 
-### Designed and created Mendix applications for client Canada Post
+### Designed and created Mendix applications for a large Postal Service client
 
 - Talked with multiple legacy application teams and composed the very detailed solution design documents from high level to low level
 - Used Mendix Studio to create the responsive and feature-rich UI apps with the low code concept for mobile, tablet and computer terminals, deployed the apps to Mendix cloud, built the images with Cloud Foundry, managed the entire application lifecycle, and collaborated with the team with Agile, Scrum and user stories.
@@ -25,7 +25,7 @@
 
 ### What experience with Mendix do I have?
 
-- Used Mendix Studio Pro from version 7 to version 10
+- Used Mendix Studio Pro from version 7 to version 10 (they used different names before)
 - Modeled the Data with domain models
 - Designed App's User Interface
 - Defined the logic with microflows and configured them
@@ -36,9 +36,9 @@
 
 ### What solutions did I implement?
 
-- Worked on a big project for Canada Post through Accenture
-- Crafted a comprehensive high- and low-level design document for a new application modernization project
-- Migrated data from legacy applications and Enterprise Data Warehouse (EDW) to a new Big Data Lake utilizing the Mendix Cloud.
+- Worked on a big project for a large Postal Service client
+  - Crafted a comprehensive high-level and low-level design document for a new application modernization project
+  - Migrated data from legacy applications and Enterprise Data Warehouse (EDW) to a new Big Data Lake utilizing the Mendix Cloud.
 
 ## My Mendix Udemy Course
 
@@ -51,8 +51,10 @@
 The versions I used
 
 - v10.6.1
+- v9.24.13
 - v9.19.0
 - v8.18.27
+- v7
 - ...
 
 ## My Other Udemy Courses
