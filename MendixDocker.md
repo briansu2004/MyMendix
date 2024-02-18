@@ -14,9 +14,16 @@
 
 ## 1. Create a Mendix app
 
-C:\Mendix\GitHubUserSearch10-main
+v10 may have issues
+
+<!-- C:\Mendix\GitHubUserSearch10-main -->
+
+
 
 Run and test it
+
+
+
 
 ## 2. Download the Docker build park
 
