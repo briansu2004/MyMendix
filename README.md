@@ -18,21 +18,25 @@
 
 ## My Mendix Experience
 
-### How Much experience with Mendix do I have?
+### How much experience with Mendix do I have?
 
 - Started from 2017
 - Got Mendix Rapid Developer certification on May 2020, Credential ID 21939
 
-### What experience with Mendix do I have?
+### What Mendix experience do I have?
 
-- Used Mendix Studio Pro from version 7 to version 10 (they used different names before)
-- Modeled the Data with domain models
-- Designed App's User Interface
-- Defined the logic with microflows and configured them
-- Integrated with PostgreSQL DB
-- Integrated with REST APIs
-- Published apps to Mendix Cloud
-- Connected with SAP etc. with connectors
+- Utilized Mendix Studio Pro from version 7 through version 10 (with name changes occurring over time).
+- Developed a Pluggable Web Widget.
+- Implemented JavaScript Actions.
+- Extended Microflows with Java Actions.
+- Modeled data using domain models.
+- Designed the user interface for applications.
+- Defined and configured logic using microflows and nanoflows.
+- Integrated with PostgreSQL and MS SQL databases.
+- Established integrations with REST APIs.
+- Successfully deployed apps to the Mendix Cloud.
+- Managed DevOps for Mendix applications using Docker.
+- Orchestrated DevOps processes for Mendix applications with Kubernetes.
 
 ### What solutions did I implement?
 
