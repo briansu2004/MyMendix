@@ -8,7 +8,7 @@
 
 ![Mendix Rapid Developer 21939](Mendix_Rapid_Developer_21939.png)
 
-## My Mendix Project
+## My Mendix Projects
 
 ### Designed and created Mendix applications for a large Postal Service client
 
@@ -45,6 +45,8 @@
   - Migrated data from legacy applications and Enterprise Data Warehouse (EDW) to a new Big Data Lake utilizing the Mendix Cloud.
 
 ## My Mendix Udemy Course
+
+The best Mendix course in the world! #1
 
 [Mendix Magic: Mobilize Your Responsive Apps with No Code](https://www.udemy.com/course/mendix-magic/)
 
