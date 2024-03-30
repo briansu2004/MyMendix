@@ -1,5 +1,28 @@
 # MyMendix
 
+- [My Mendix Udemy Course](#my-mendix-udemy-course)
+- [My Mendix Credential](#my-mendix-credential)
+- [My Mendix Projects](#my-mendix-projects)
+  - [Designed and created Mendix applications for a large Postal Service client](#designed-and-created-mendix-applications-for-a-large-postal-service-client)
+- [My Mendix Experience](#my-mendix-experience)
+  - [How much experience with Mendix do I have?](#how-much-experience-with-mendix-do-i-have)
+  - [What Mendix experience do I have?](#what-mendix-experience-do-i-have)
+  - [What solutions did I implement?](#what-solutions-did-i-implement)
+- [Mendix Studio Pro](#mendix-studio-pro)
+- [My Other Udemy Courses](#my-other-udemy-courses)
+
+## My Mendix Udemy Course
+
+The best Mendix course in the world! #1
+
+<!-- [Mendix Magic: Mobilize Your Responsive Apps with No Code](https://www.udemy.com/course/mendix-magic/) -->
+
+- [Mendix Magic: Mobilize Your Responsive Apps with No Code](https://www.udemy.com/course/mendix-magic/)
+
+<a href="https://www.udemy.com/course/mendix-magic/">![Mendix Magic: Mobilize Your Responsive Apps with No Code](image/course_logo_mendix.jpg)</a>
+
+<!-- [My Udemy Courses](https://myudemycourses.netlify.app/) -->
+
 ## My Mendix Credential
 
 - Mendix Rapid Developer
@@ -43,14 +66,6 @@
 - Worked on a big project for a large Postal Service client
   - Crafted a comprehensive high-level and low-level design document for a new application modernization project
   - Migrated data from legacy applications and Enterprise Data Warehouse (EDW) to a new Big Data Lake utilizing the Mendix Cloud.
-
-## My Mendix Udemy Course
-
-The best Mendix course in the world! #1
-
-[Mendix Magic: Mobilize Your Responsive Apps with No Code](https://www.udemy.com/course/mendix-magic/)
-
-<!-- [My Udemy Courses](https://myudemycourses.netlify.app/) -->
 
 ## Mendix Studio Pro
 
