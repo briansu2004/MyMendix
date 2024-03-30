@@ -21,6 +21,13 @@ The best Mendix course in the world! #1
 
 <a href="https://www.udemy.com/course/mendix-magic/">![Mendix Magic: Mobilize Your Responsive Apps with No Code](image/course_logo_mendix.jpg)</a>
 
+Hot items:
+
+- Mendix DevOps with Docker
+- Mendix DevOps with Kubernetes
+- Mendix Resume
+- Mendix Interview Questions
+
 <!-- [My Udemy Courses](https://myudemycourses.netlify.app/) -->
 
 ## My Mendix Credential
